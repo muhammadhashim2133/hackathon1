@@ -3,7 +3,7 @@ import { drizzle } from "drizzle-orm/vercel-postgres";
 import { InferModel } from "drizzle-orm";
 import { sql } from "@vercel/postgres";
 
-export const hakatonecomTable = pgTable("hakatonecom", {
+export const hakatonecomTable = pgTable("hackatonbd", {
   Id: serial("id").primaryKey(),
   UserId: varchar("userid").notNull(),
   ProductId: varchar("productid").notNull(),
