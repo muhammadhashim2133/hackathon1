@@ -11,4 +11,4 @@ Useed React-hot-toast library to adds beautiful notifications
 Useed Icons from Lucid (default from Shadcn-UI)
 Stripe Test Credit Cards for payment
 used redux for state managment
-used clerk for authentication
+used clerk for authentication.
