@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hackathon1
 
 Building an ecommerce website
@@ -56,3 +57,6 @@ Stripe Test Credit Cards for payment.
 used redux for state managment.
 used clerk for authentication.
 >>>>>>> 6c0e8ef677d06a599230f2700b37619e706b62e6
+=======
+
+>>>>>>> 64e16d4d62d86ed0aec19bd837677a22e0fcf2b9
