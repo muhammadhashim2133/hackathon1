@@ -2,7 +2,6 @@
 
 Building an ecommerce website
 
-<<<<<<< HEAD
 ## Getting Started
 
 First, run the development server:
