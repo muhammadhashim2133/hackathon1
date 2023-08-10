@@ -2,6 +2,7 @@
 
 Building an ecommerce website
 
+<<<<<<< HEAD
 ## Getting Started
 
 First, run the development server:
@@ -42,3 +43,16 @@ This project is deployed on vercel you can check it on (https://hackathon1-muham
 
 1. `.env` and `env.development.local` files are not on Github.you need to setup manually.
 2. `npm install styled-components` to use Sanity and `npm uninstall styled-components` to deploy on vercel.
+=======
+
+i used
+Next.js 13.4+ Tailwind CSS, and Shadcn UI.
+Implemented cart functionality using Vercel Postgres SQL and Drizzle ORM.
+Connected to Sanity as back end CMS with all the product Data.
+Connected Stripe APIs to power online payment processing for e-commerce.
+Useed React-hot-toast library to adds beautiful notifications.
+Useed Icons from Lucid (default from Shadcn-UI).
+Stripe Test Credit Cards for payment.
+used redux for state managment.
+used clerk for authentication.
+>>>>>>> 6c0e8ef677d06a599230f2700b37619e706b62e6
