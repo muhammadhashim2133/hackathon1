@@ -20,7 +20,7 @@ function PromotionSection() {
               <h3 className="font-bold text-3xl">GET UP TO 60% </h3>
               <div className="text-lg">For the summer season</div>
             </div>
-            <div className="mt-[32px] ">
+            <div className="mt-[34px] ">
               <Image width={340} src={event1} alt="event1 " />
             </div>
           </div>
@@ -43,7 +43,7 @@ function PromotionSection() {
               <div className=" ml-5">
                 <s>$100.00</s>
                 <span className="ml-3 font-bold">$75.00</span>
-                <Image className="mt-6" src={event2} alt="event2" />
+                <Image className="mt-[14px]" src={event2} alt="event2" />
               </div>
             </div>
             {/* vertical promotion card 1 */}
@@ -53,7 +53,7 @@ function PromotionSection() {
               <div className=" ml-5">
                 <s>$100.00</s>
                 <span className="ml-2 font-bold">$75.00</span>
-                <Image className="mt-[19px]" src={event3} alt="event2" />
+                <Image className="mt-[9px]" src={event3} alt="event2" />
               </div>
             </div>
           </div>
