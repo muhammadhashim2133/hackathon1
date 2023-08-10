@@ -43,4 +43,3 @@ This project is deployed on vercel you can check it on (https://hackathon1-muham
 
 1. `.env` and `env.development.local` files are not on Github.you need to setup manually.
 2. `npm install styled-components` to use Sanity and `npm uninstall styled-components` to deploy on vercel.
-=======
