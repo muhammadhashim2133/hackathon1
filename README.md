@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> d6d58efa0689a93c0fcc0c4549646399ed39177b
 # hackathon1
 
 Building an ecommerce website
@@ -40,6 +43,7 @@ This project is deployed on vercel you can check it on (https://hackathon1-muham
 8. Used redux for state managment.
 9. Used clerk for authentication.
 
+<<<<<<< HEAD
 #### Things to remember in future
 
 1. `.env` and `env.development.local` files are not on Github.you need to setup manually.
@@ -60,3 +64,9 @@ used clerk for authentication.
 =======
 
 >>>>>>> 64e16d4d62d86ed0aec19bd837677a22e0fcf2b9
+=======
+#### Things to remember
+
+1. `.env` and `env.development.local` files are not on Github.you need to setup manually.
+2. `npm install styled-components` to use Sanity and `npm uninstall styled-components` to deploy on vercel.
+>>>>>>> d6d58efa0689a93c0fcc0c4549646399ed39177b

@@ -132,7 +132,7 @@ function Clientheader(props: any) {
                   <ShoppingCart className="text-5xl" />
 
                   <Link href="/categories/Female">
-                    <div>Femail</div>
+                    <div>Female</div>
                   </Link>
                 </li>
                 <li className="mt-4 flex gap-2">
